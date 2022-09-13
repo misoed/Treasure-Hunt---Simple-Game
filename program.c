@@ -12,7 +12,7 @@
 #include "program.h"
 #include "map.h"
 #include <math.h>
-
+//field of game
 void game_field();
 void fog(const int rows, char field[][rows], char undiscovered[][rows]);
 void game(const int rows, char field[][rows], char undiscovered[][rows]);
