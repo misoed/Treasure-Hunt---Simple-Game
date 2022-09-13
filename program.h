@@ -9,7 +9,7 @@
 #include <stdbool.h>
 #include <math.h>
 
-
+//need to fix collision of enemy with next level hitbox
 //hitboxes
 char player[3][5] = {{    
                          '<',
